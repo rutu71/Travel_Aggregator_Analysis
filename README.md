@@ -2,14 +2,6 @@
 * Project Overview
         The Travel Aggregator Analysis project focuses on analyzing user booking and session data from multiple travel platforms to identify trends, optimize pricing         strategies, and enhance user experience. The insights gained help improve the efficiency of the platform and provide better recommendations.
 
-* Dataset
-        The project uses booking and session data containing:
-        User ID
-        Session Duration
-        Booking Status
-        Clickstream Data
-        Price Comparisons
-  
 *Technologies Used
         Programming Language: Python
         Libraries: Pandas, NumPy, Matplotlib, Seaborn
